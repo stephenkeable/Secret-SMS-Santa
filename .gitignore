@@ -127,5 +127,5 @@ dist
 .pnp.*
 
 # remix
-.build/
-.public/build/
+build/
+public/
